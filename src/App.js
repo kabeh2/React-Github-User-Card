@@ -4,7 +4,7 @@ import UserCard from "./components/Card";
 // import { Input, Button } from "semantic-ui-react";
 import "./App.scss";
 
-const apiUrl = "https://api.github.com/users/inkent";
+const apiUrl = "https://api.github.com/users/kabeh2";
 
 class App extends Component {
   constructor(props) {
