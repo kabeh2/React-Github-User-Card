@@ -21,8 +21,7 @@ class App extends Component {
   }
 
   componentDidMount = () => {
-    this.fetchUser();
-    this.fetchFollowers();
+    this.handleApiSubmit();
   };
 
   fetchUser = async () => {
@@ -86,7 +85,7 @@ class App extends Component {
       // placed api callback to update search results
       this.handleApiSubmit
     );
-    console.log(this.state.userParam);
+    console.log(this.state.user.login);
   };
 
   render() {
