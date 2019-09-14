@@ -1,5 +1,6 @@
-View My Completed Work:
-https://kabeh2.github.io/React-Github-User-Card/
+### View My Completed Work:
+
+### https://kabeh2.github.io/React-Github-User-Card/
 
 # Module Project: Component Lifecycle Methods - React Github User Card
 
